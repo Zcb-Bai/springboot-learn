@@ -4,3 +4,5 @@
 [springboot基础配置](https://www.cnblogs.com/a595452248/p/14371702.html)
 
 [Spring-Boot-Mybatis](https://www.cnblogs.com/a595452248/p/14371702.html)
+
+[Spring-Boot整合Mybatis-Plus](https://www.cnblogs.com/a595452248/p/14374100.html)
