@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -23,43 +26,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866096a3-501f-4ac2-ad0e-0cd36b17e078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/02.Spring-Boot-Config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/config/YamlPropertySourceFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/pojo/TestConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/pojo/Zcb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/com/spbt/pojo/ZcbConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/target/classes/test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/MybatisApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/services/Impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java/com/spbt/services/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/config/YamlPropertySourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/config/YamlPropertySourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/Zcb.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/Zcb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/ZcbConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/spbt/pojo/ZcbConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/04.Spring-Boot-MyBatis-Plus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/MybatisPiusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/config/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/test/java/com/spbt/test/TestSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +136,36 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Spring Boot.MybatisApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.MybatisPiusApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spbt.config.CodeGenerator" />
+      <module name="04.Spring-Boot-MyBatis-Plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spbt.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,8 +197,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisPiusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04.Spring-Boot-MyBatis-Plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.MybatisPiusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeGenerator" />
         <item itemvalue="Spring Boot.MybatisApplication" />
       </list>
     </recent_temporary>
@@ -164,7 +221,8 @@
       <updated>1612339112849</updated>
       <workItem from="1612339114005" duration="4071000" />
       <workItem from="1612343837865" duration="2610000" />
-      <workItem from="1612400452988" duration="8287000" />
+      <workItem from="1612400452988" duration="24088000" />
+      <workItem from="1612489205409" duration="1952000" />
     </task>
     <servers />
   </component>
@@ -188,57 +246,75 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="401" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1612407141725" />
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1612404645721">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1612420718575">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1612404645721" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1612420718575" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1612341975730">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1612341975730" />
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.0.center" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.0.left" timestamp="1612408209815">
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612408209815" />
-    <state width="1323" height="212" key="GridCell.Tab.0.right" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.1.bottom" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.1.center" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.1.left" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
-    <state width="1323" height="212" key="GridCell.Tab.1.right" timestamp="1612408209823">
+    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1612432945592">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612408209823" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612432945592" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1612343987348">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1612343987348" />
-    <state x="57" y="29" key="new project wizard" timestamp="1612343967392">
+    <state x="222" y="97" width="921" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612424893382">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="57" y="29" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612343967392" />
+    <state x="222" y="97" width="921" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1612424893382" />
+    <state x="57" y="29" key="new project wizard" timestamp="1612410592970">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="29" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612410592970" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1612407660653">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1612407660653" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

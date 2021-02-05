@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/01.Spring-Boot-Start/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03.Spring-Boot-Mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java" charset="UTF-8" />
   </component>
 </project>
