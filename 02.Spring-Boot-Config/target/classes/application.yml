@@ -1,4 +1,4 @@
 zcb:
   name: Bai
   title: Spring-Boot-Learn
-  all : ${zcb.name}--${zcb.title}
+  all: ${zcb.name}--${zcb.title}

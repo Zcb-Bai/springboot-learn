@@ -18,4 +18,5 @@ public class Zcb {
 
     @Value("${zcb.title}")
     private String title;
+
 }

@@ -26,4 +26,5 @@ public class YamlPropertySourceFactory implements PropertySourceFactory {
         String propertyName = name != null ? name : resource.getResource().getFilename();
         return new PropertiesPropertySource(propertyName, ymlProperties);
     }
+
 }

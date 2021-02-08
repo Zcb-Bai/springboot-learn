@@ -20,4 +20,5 @@ import org.springframework.stereotype.Component;
 public class TestConfig {
     private String name;
     private int age;
+
 }

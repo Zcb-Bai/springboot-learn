@@ -28,4 +28,5 @@ public class IndexController {
     public String getTest() {
         return testConfig.getName() + "\t" + testConfig.getAge();
     }
+
 }
