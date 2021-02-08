@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/02.Spring-Boot-Config/pom.xml" />
         <option value="$PROJECT_DIR$/03.Spring-Boot-Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/pom.xml" />
+        <option value="$PROJECT_DIR$/05.Spring-Boot-AOP/pom.xml" />
       </list>
     </option>
   </component>

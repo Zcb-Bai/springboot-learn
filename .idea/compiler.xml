@@ -10,22 +10,25 @@
         <module name="01.Spring-Boot-Start" />
         <module name="04.Spring-Boot-MyBatis-Plus" />
         <module name="03.Spring-Boot-Mybatis" />
+        <module name="05.Spring-Boot-AOP" />
         <module name="02.Spring-Boot-Config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="01.Spring-Boot-Start" target="1.8" />
       <module name="02.Spring-Boot-Config" target="1.7" />
-      <module name="03.Spring-Boot-Mybatis" target="1.7" />
+      <module name="03.Spring-Boot-Mybatis" target="1.8" />
       <module name="04.Spring-Boot-MyBatis-Plus" target="1.8" />
+      <module name="05.Spring-Boot-AOP" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01.Spring-Boot-Start" options="-parameters" />
       <module name="02.Spring-Boot-Config" options="" />
-      <module name="03.Spring-Boot-Mybatis" options="" />
+      <module name="03.Spring-Boot-Mybatis" options="-parameters" />
       <module name="04.Spring-Boot-MyBatis-Plus" options="-parameters" />
+      <module name="05.Spring-Boot-AOP" options="-parameters" />
     </option>
   </component>
 </project>

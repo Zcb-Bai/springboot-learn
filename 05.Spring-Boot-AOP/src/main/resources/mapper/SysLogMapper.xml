@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.spbt.dao.SysLogDao">
+
+    <insert id="savaSysLog" parameterType="com.spbt.pojo.SysLog">
+        insert into sys_log(username,operation,time,method,params,ip,create_time) values
+        (#{username},#{operation},#{time},#{method},#{params},#{ip},#{createTime})
+    </insert>
+
+</mapper>

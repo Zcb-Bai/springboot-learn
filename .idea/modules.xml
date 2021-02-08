@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02.Spring-Boot-Config/02.Spring-Boot-Config.iml" filepath="$PROJECT_DIR$/02.Spring-Boot-Config/02.Spring-Boot-Config.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Spring-Boot-Mybatis/03.Spring-Boot-Mybatis.iml" filepath="$PROJECT_DIR$/03.Spring-Boot-Mybatis/03.Spring-Boot-Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/04.Spring-Boot-MyBatis-Plus.iml" filepath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/04.Spring-Boot-MyBatis-Plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Spring-Boot-AOP/05.Spring-Boot-AOP.iml" filepath="$PROJECT_DIR$/05.Spring-Boot-AOP/05.Spring-Boot-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-learn.iml" filepath="$PROJECT_DIR$/.idea/springboot-learn.iml" />
     </modules>
   </component>
