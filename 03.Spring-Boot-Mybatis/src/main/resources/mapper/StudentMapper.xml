@@ -7,7 +7,6 @@
         <id column="sname" property="sname" javaType="java.lang.String" jdbcType="VARCHAR"/>
         <id column="sex" property="sex" javaType="java.lang.String" jdbcType="VARCHAR"/>
     </resultMap>
-
     <select id="selectStudentById" resultMap="BaseMap">
 	select * from student where sid = #{sid}
 </select>

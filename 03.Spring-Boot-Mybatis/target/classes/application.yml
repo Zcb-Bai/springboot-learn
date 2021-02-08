@@ -66,3 +66,4 @@ mybatis:
   type-aliases-package: com/spbt/pojo
   # mapper xml实现扫描路径
   mapper-locations: classpath:mapper/*.xml
+

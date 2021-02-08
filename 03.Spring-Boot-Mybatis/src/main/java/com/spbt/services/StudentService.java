@@ -12,4 +12,5 @@ import org.springframework.stereotype.Service;
 public interface StudentService {
 
     Student selectBySid(String sid);
+
 }

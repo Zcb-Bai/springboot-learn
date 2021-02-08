@@ -17,7 +17,6 @@ public class Student implements Serializable {
     private String sid;
     private String sname;
     private String sex;
-
     @Override
     public String toString() {
         return "Student{" +

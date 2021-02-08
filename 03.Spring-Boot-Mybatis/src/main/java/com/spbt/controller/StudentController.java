@@ -26,4 +26,5 @@ public class StudentController {
         log.info("学生信息" + student);
         return student;
     }
+
 }
