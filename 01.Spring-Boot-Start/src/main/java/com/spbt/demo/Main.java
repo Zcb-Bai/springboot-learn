@@ -15,14 +15,11 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class Main {
 
-    @RequestMapping("/")
+    @RequestMapping("/aa")
     String index() {
         return "hello spring boot";
     }
-
-
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
-
 }
