@@ -26,10 +26,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866096a3-501f-4ac2-ad0e-0cd36b17e078" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/06.Spring-Boot-Thymeleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/Thymeleaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/pojo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/templates/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Spring-Boot-Start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01.Spring-Boot-Start/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Spring-Boot-Start/src/main/java/com/spbt/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/01.Spring-Boot-Start/src/main/java/com/spbt/demo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Spring-Boot-Start/target/classes/com/spbt/demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/01.Spring-Boot-Start/target/classes/com/spbt/demo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.Spring-Boot-Start/01.Spring-Boot-Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01.Spring-Boot-Start/01.Spring-Boot-Start.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,16 +93,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/05.Spring-Boot-AOP/src/main/java/com/spbt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\work\springboot-learn\06.Spring-Boot-Thymeleaf\src\main\resources" />
       <recent name="G:\work\springboot-learn\05.Spring-Boot-AOP\src\main\java\com\spbt" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
+  <component name="RunManager" selected="Spring Boot.Thymeleaf">
     <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spbt.config.CodeGenerator" />
       <module name="04.Spring-Boot-MyBatis-Plus" />
@@ -109,17 +126,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +177,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thymeleaf" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="06.Spring-Boot-Thymeleaf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spbt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.Thymeleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Thymeleaf" />
+        <item itemvalue="Spring Boot.MybatisApplication" />
         <item itemvalue="Spring Boot.AOPApplication" />
         <item itemvalue="Application.IndexController" />
-        <item itemvalue="Spring Boot.MybatisApplication" />
         <item itemvalue="Application.CodeGenerator" />
       </list>
     </recent_temporary>
@@ -202,7 +222,8 @@
       <workItem from="1612664014175" duration="61000" />
       <workItem from="1612664138861" duration="14449000" />
       <workItem from="1612745942394" duration="781000" />
-      <workItem from="1612746832259" duration="17206000" />
+      <workItem from="1612746832259" duration="23076000" />
+      <workItem from="1612831879454" duration="2598000" />
     </task>
     <servers />
   </component>
@@ -241,38 +262,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1612746000129" />
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.1.bottom" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.1.center" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.1.left" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
-    <state width="1323" height="120" key="GridCell.Tab.1.right" timestamp="1612769987761">
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1612851847399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612769987761" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
     <state width="1323" height="98" key="GridCell.Tab.2.bottom" timestamp="1612751023925">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -297,10 +318,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="222" y="97" width="921" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1612424893382" />
-    <state x="95" y="49" key="new project wizard" timestamp="1612516859477">
+    <state x="95" y="0" key="new project wizard" timestamp="1612771431047">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="95" y="49" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612516859477" />
+    <state x="95" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612771431047" />
     <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1612666880464">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
