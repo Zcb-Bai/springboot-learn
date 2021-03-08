@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  mail:
+    host: smtp.163.com
+    username: zcb_bai@163.com
+    password: JNDIBKEYBADQYGYL
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true

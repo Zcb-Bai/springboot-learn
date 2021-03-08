@@ -1,6 +1,5 @@
 package com.spbt.controller;
 
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.spbt.mapper.UserMapper;
 import com.spbt.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/pom.xml" />
         <option value="$PROJECT_DIR$/05.Spring-Boot-AOP/pom.xml" />
         <option value="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/08.Spring-Boot-RabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/10.Spring-Boot-Email/pom.xml" />
       </list>
     </option>
   </component>

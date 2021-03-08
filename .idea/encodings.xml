@@ -8,5 +8,9 @@
     <file url="file://$PROJECT_DIR$/05.Spring-Boot-AOP/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08.Spring-Boot-RabbitMQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10.Spring-Boot-Email/src/main/java" charset="UTF-8" />
   </component>
 </project>

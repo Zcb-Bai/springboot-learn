@@ -26,26 +26,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866096a3-501f-4ac2-ad0e-0cd36b17e078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/06.Spring-Boot-Thymeleaf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/Thymeleaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/java/com/spbt/pojo/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/09.Spring-Boot-Ehcache-Cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/EhcacheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/services/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/java/com/spbt/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/10.Spring-Boot-Email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/src/main/java/com/spbt/EmailApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/src/main/java/com/spbt/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Spring-Boot-Email/src/test/java/TestEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Spring-Boot-Start/01.Spring-Boot-Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01.Spring-Boot-Start/01.Spring-Boot-Start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/java/com/spbt/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/src/test/java/com/spbt/test/TestSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/target/classes/com/spbt/config/MybatisPlusConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/target/classes/com/spbt/config/MybatisPlusConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/target/test-classes/com/spbt/test/TestSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/07.Spring-Boot-Redis-Cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/07.Spring-Boot-Redis-Cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/RedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/RedisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/services/Impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/java/com/spbt/services/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +78,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +86,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="8c3d0ff6-442d-477a-b099-30b3b40ba1b9" />
+  <component name="JupyterTrust" id="b2fa2392-6bd5-4cba-a414-4063b2f4475c" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -93,23 +116,49 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/src/main/resources" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/drug-master" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.spbt.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spbt.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\work\springboot-learn\09.Spring-Boot-Ehcache-Cache\src\main\resources" />
+      <recent name="G:\work\springboot-learn\09.Spring-Boot-Ehcache-Cache\src\main\java\com\spbt" />
+      <recent name="G:\work\springboot-learn\07.Spring-Boot-Redis-Cache\src\main\resources" />
+      <recent name="G:\work\springboot-learn\07.Spring-Boot-Redis-Cache\src\main\java\com\spbt" />
       <recent name="G:\work\springboot-learn\06.Spring-Boot-Thymeleaf\src\main\resources" />
-      <recent name="G:\work\springboot-learn\05.Spring-Boot-AOP\src\main\java\com\spbt" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Thymeleaf">
-    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spbt.config.CodeGenerator" />
-      <module name="04.Spring-Boot-MyBatis-Plus" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:tree" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EmailApplication">
+    <configuration name="cs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spbt.confijg.cs" />
+      <module name="08.Spring-Boot-RabbitMQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spbt.config.*" />
+          <option name="PATTERN" value="com.spbt.confijg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,28 +166,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spbt.controller.IndexController" />
-      <module name="05.Spring-Boot-AOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spbt.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AOPApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="05.Spring-Boot-AOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spbt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.AOPApplication" />
+    <configuration name="TestEmail.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10.Spring-Boot-Email" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEmail" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EhcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="09.Spring-Boot-Ehcache-Cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.EhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="10.Spring-Boot-Email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.EmailApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,6 +237,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RabbitMQApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="08.Spring-Boot-RabbitMQ" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.RabbitMQApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="07.Spring-Boot-Redis-Cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spbt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spbt.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Thymeleaf" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="06.Spring-Boot-Thymeleaf" />
       <extension name="coverage">
@@ -192,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestEmail.send" />
+        <item itemvalue="Spring Boot.RedisApplication" />
+        <item itemvalue="Application.cs" />
         <item itemvalue="Spring Boot.Thymeleaf" />
         <item itemvalue="Spring Boot.MybatisApplication" />
-        <item itemvalue="Spring Boot.AOPApplication" />
-        <item itemvalue="Application.IndexController" />
-        <item itemvalue="Application.CodeGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +303,17 @@
       <workItem from="1612664138861" duration="14449000" />
       <workItem from="1612745942394" duration="781000" />
       <workItem from="1612746832259" duration="23076000" />
-      <workItem from="1612831879454" duration="2598000" />
+      <workItem from="1612831879454" duration="4190000" />
+      <workItem from="1612917904696" duration="7568000" />
+      <workItem from="1613609775398" duration="14894000" />
+      <workItem from="1613695501350" duration="638000" />
+      <workItem from="1613696401645" duration="4751000" />
+      <workItem from="1613782360224" duration="15470000" />
+      <workItem from="1613958721727" duration="3096000" />
+      <workItem from="1614042473730" duration="3676000" />
+      <workItem from="1614063921582" duration="4242000" />
+      <workItem from="1614128682694" duration="17580000" />
+      <workItem from="1614663285938" duration="19821000" />
     </task>
     <servers />
   </component>
@@ -250,6 +340,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="454" y="86" key="#HTTP_Proxy/0.0.1366.738@0.0.1366.738" timestamp="1612663129443" />
+    <state x="309" y="47" key="#Inspections" timestamp="1615184164507">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1615184164507" />
     <state x="401" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612504576542">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -258,42 +352,50 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1612687668498" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1612746000129">
+    <state x="262" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613810623597">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1612746000129" />
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1612851847399">
+    <state x="262" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1613810623597" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1613809235919">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1612851847399">
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1613809235919" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1615165223527">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1612851847399">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1615165223527" />
+    <state width="1117" height="203" key="GridCell.Tab.0.bottom" timestamp="1615196588858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1612851847399">
+    <state width="1117" height="203" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
+    <state width="1117" height="203" key="GridCell.Tab.0.center" timestamp="1615196588857">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1612851847399">
+    <state width="1117" height="203" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1615196588857" />
+    <state width="1117" height="203" key="GridCell.Tab.0.left" timestamp="1615196588857">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1612851847399">
+    <state width="1117" height="203" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1615196588857" />
+    <state width="1117" height="203" key="GridCell.Tab.0.right" timestamp="1615196588858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1612851847399">
+    <state width="1117" height="203" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
+    <state width="1117" height="203" key="GridCell.Tab.1.bottom" timestamp="1615196588858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
-    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1612851847399">
+    <state width="1117" height="203" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
+    <state width="1117" height="203" key="GridCell.Tab.1.center" timestamp="1615196588858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612851847399" />
+    <state width="1117" height="203" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
+    <state width="1117" height="203" key="GridCell.Tab.1.left" timestamp="1615196588858">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1117" height="203" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
+    <state width="1117" height="203" key="GridCell.Tab.1.right" timestamp="1615196588858">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1117" height="203" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1615196588858" />
     <state width="1323" height="98" key="GridCell.Tab.2.bottom" timestamp="1612751023925">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -310,22 +412,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="98" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1612751023925" />
+    <state x="258" y="48" key="Maven.ArtifactSearchDialog" timestamp="1613637322888">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="258" y="48" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1613637322888" />
+    <state x="332" y="70" key="RollbackChangesDialog" timestamp="1614842774083">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="332" y="70" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614842774083" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1612745989189">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1612745989189" />
+    <state x="482" y="146" key="chooseDestDirectoryDialog" timestamp="1613807214339">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="482" y="146" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1613807214339" />
+    <state x="454" y="180" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614043872514">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="180" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1614043872514" />
     <state x="222" y="97" width="921" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612424893382">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="222" y="97" width="921" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1612424893382" />
-    <state x="95" y="0" key="new project wizard" timestamp="1612771431047">
+    <state x="115" y="38" key="new project wizard" timestamp="1615183365194">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="95" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612771431047" />
-    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1612666880464">
+    <state x="115" y="38" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1615183365194" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1614845772826">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1612666880464" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1614845772826" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1612690752200">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

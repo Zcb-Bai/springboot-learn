@@ -23,3 +23,9 @@ mybatis-plus:
       logic-not-delete-value: 1
       # 删除后
       logic-delete-value: 0
+
+logging:
+  level:
+    com:
+      spbt:
+        controller: debug

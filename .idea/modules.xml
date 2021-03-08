@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/04.Spring-Boot-MyBatis-Plus.iml" filepath="$PROJECT_DIR$/04.Spring-Boot-MyBatis-Plus/04.Spring-Boot-MyBatis-Plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/05.Spring-Boot-AOP/05.Spring-Boot-AOP.iml" filepath="$PROJECT_DIR$/05.Spring-Boot-AOP/05.Spring-Boot-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/06.Spring-Boot-Thymeleaf.iml" filepath="$PROJECT_DIR$/06.Spring-Boot-Thymeleaf/06.Spring-Boot-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/07.Spring-Boot-Redis-Cache.iml" filepath="$PROJECT_DIR$/07.Spring-Boot-Redis-Cache/07.Spring-Boot-Redis-Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Spring-Boot-RabbitMQ/08.Spring-Boot-RabbitMQ.iml" filepath="$PROJECT_DIR$/08.Spring-Boot-RabbitMQ/08.Spring-Boot-RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/09.Spring-Boot-Ehcache-Cache.iml" filepath="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/09.Spring-Boot-Ehcache-Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Spring-Boot-Email/10.Spring-Boot-Email.iml" filepath="$PROJECT_DIR$/10.Spring-Boot-Email/10.Spring-Boot-Email.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-learn.iml" filepath="$PROJECT_DIR$/.idea/springboot-learn.iml" />
     </modules>
   </component>
