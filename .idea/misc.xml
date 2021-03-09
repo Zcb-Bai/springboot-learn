@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/08.Spring-Boot-RabbitMQ/pom.xml" />
         <option value="$PROJECT_DIR$/09.Spring-Boot-Ehcache-Cache/pom.xml" />
         <option value="$PROJECT_DIR$/10.Spring-Boot-Email/pom.xml" />
+        <option value="$PROJECT_DIR$/11.Spring-Boot-Filter-Interceptor/pom.xml" />
       </list>
     </option>
   </component>
